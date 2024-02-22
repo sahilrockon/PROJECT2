@@ -1,0 +1,76 @@
+.h1, .c1, h4 {
+    color:white;
+    text-align: center;
+    font-size: 65px;
+    
+}
+h1{
+    text-shadow: 5px 5px black;
+}
+
+.c1 {
+    text-shadow: 5px 5px black;
+}
+
+h4 {
+    font-size: 30px;
+    color:brown;
+    position: relative;
+    margin-top: -10px;
+}
+
+a {
+    color: white;
+    font-size: 25px;
+    text-decoration: none;
+    margin: 30px;
+}
+
+nav {
+    padding-left: 950px;
+}
+
+
+.btn1, .btn2 {
+    color: white;
+    background-color: green;
+    font-size: 30px;
+    border-radius: 25%;
+    margin-left: 100px;
+}
+
+.btn2 {
+    background-color: red;
+}
+
+
+
+label {
+   color:white;
+   text-shadow: 3px 3px blueviolet;
+    font-size: 30px;
+}
+
+input , select{
+    font-size: 30px;
+    border-radius: 20px;
+}
+
+.cl1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+div {
+    padding-bottom: 10px;
+}
+
+#msg {
+    display: none;
+    color: rgb(32, 52, 231);
+    font-size: 24px;
+    margin-left: 100px;
+}
+
+
